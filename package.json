@@ -1,0 +1,20 @@
+{
+  "name": "youtubeuploadproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.9",
+    "open": "^8.4.2",
+    "uuid": "^11.0.3",
+    "youtube-api": "^3.0.1"
+  }
+}
